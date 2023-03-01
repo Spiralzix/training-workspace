@@ -7,6 +7,7 @@
 ```JAVA
 public class {
     public static void main (string args[]){
+        system.out.print("Helllo World")
     }
 }
 ```
