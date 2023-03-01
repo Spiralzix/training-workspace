@@ -8,6 +8,7 @@
 public class {
     public static void main (string args[]){
         system.out.print("Helllo JAVA")
+        system.out.print("Helllo JAVA-CHIP")
     }
 }
 ```
